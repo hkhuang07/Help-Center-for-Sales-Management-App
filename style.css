@@ -15,11 +15,8 @@ body {
 
 
 #Header {
-	height: 220px;
 	background: url(../images/electronicbanner.jpg) no-repeat center center;
 	background-size: cover;
-	text-align:right;
-	vertical-align: middle;
 }
 
 a{
