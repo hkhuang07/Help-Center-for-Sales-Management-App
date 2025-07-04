@@ -4,21 +4,24 @@ body {
 	background-color:s whitesmoke ;
 	overflow-x: hidden;
 	font-family: 'Times New Roman';
+	borrder: solid thin midnightblue
 
 }
 
 #WebPage {
 	width: 100%;
 	margin: 0 auto;
-	border: 1px solid blue;
+	border: 1px solid midnightblue;
 }
 
 
 #Header {
 	background: url(./images/electronicbanner.jpg) no-repeat center center;
 	background-size: cover;
-	height:200px;
+	height:300px;
 	color: midmightblue;
+	border: 1px solid midnightblue;
+
 }
 
 a{
