@@ -17,6 +17,8 @@ body {
 #Header {
 	background: url(./images/electronicbanner.jpg) no-repeat center center;
 	background-size: cover;
+	height:200px;
+	color: midmightblue;
 }
 
 a{
